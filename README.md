@@ -42,7 +42,9 @@ int main()
 ```
 ## OUTPUT
 
-![alt text](emi.png)
+
+<img width="891" height="254" alt="Screenshot 2026-03-26 141112" src="https://github.com/user-attachments/assets/d489eabc-2b12-4fff-a0a2-511f86210194" />
+
 
 ## RESULT
 
@@ -84,7 +86,8 @@ int main()
 ```
 ## OUTPUT
 
-![alt text](<Fibonacci series.png>)
+<img width="832" height="199" alt="Screenshot 2026-03-26 141218" src="https://github.com/user-attachments/assets/67e50a9f-2f71-4ad6-8ed8-26f56339cae2" />
+
 
 ## RESULT
 Thus the program to generate the Fibonacci series for the value 6 has been executed successfully.
@@ -119,7 +122,8 @@ int main()
 ```
 ## OUTPUT
 
-![alt text](array.png)
+<img width="895" height="340" alt="Screenshot 2026-03-26 141310" src="https://github.com/user-attachments/assets/3e3e4be1-7d08-4cf9-a911-023bfd4e79dd" />
+
 
 ## RESULT
 Thus the program to read n elements as input and print the last element of the array has been executed successfully.
@@ -162,7 +166,8 @@ int main()
 ```
 ## OUTPUT
 
-![alt text](<positive array.png>)
+<img width="896" height="342" alt="image" src="https://github.com/user-attachments/assets/813b5be8-980f-4b0a-85c1-c587e1600e30" />
+
 
 ## RESULT
 Thus the program to count total number of positive elements in an array has been executed successfully.
@@ -213,7 +218,8 @@ int main()
 ```
 ## Output:
 
-![alt text](<1 D array.png>)
+<img width="906" height="338" alt="Screenshot 2026-03-26 141605" src="https://github.com/user-attachments/assets/e04792b7-7832-4501-8895-8cb5694f27c8" />
+
 
 ## Result:
 
